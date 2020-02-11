@@ -1,0 +1,17 @@
+.div {
+  width: 227px;
+  height: 50px;
+  background: rgb(255, 0, 21);
+  position: absolute;
+  z-index: 999;
+  top: 0;
+  right: 0;
+  font-size: 20px;
+  padding-left: 20px;
+  border-radius: 10%;
+}
+
+.p {
+  color: white;
+  margin: 15px 0 0 0;
+}

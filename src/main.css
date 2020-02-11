@@ -1,0 +1,7 @@
+body {
+  width: 550px;
+  margin: auto;
+  padding: 50px;
+  border: 2px solid rgb(6, 100, 129);
+  position: relative;
+}
